@@ -3,4 +3,6 @@
 /.bundle/
 /tmp/
 *.bundle
+.idea/
+_site/
 Gemfile.lock
