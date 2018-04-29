@@ -5,4 +5,5 @@
 *.bundle
 .idea/
 _site/
+_config-dev.yml
 Gemfile.lock
